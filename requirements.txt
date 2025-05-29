@@ -1,0 +1,13 @@
+playwright
+pytest-playwright
+pytest
+allure-pytest
+soql
+simple_salesforce
+pytest-dotenv
+slugify
+pytest-xdist
+mimesis
+filelock
+PyYAML
+requests
